@@ -7,3 +7,6 @@ Enabling the server portion of syslogd required [System Integrity Protection (SI
 and a bunch of other shenanigans.
 
 This script needs to be executed with sudo (bad), but it just works (good!)
+
+## Credit
+[Marcelo](https://gist.github.com/marcelom)'s [pysyslog.py](https://gist.github.com/marcelom/4218010)
